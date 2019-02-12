@@ -1,3 +1,3 @@
-# Display-Fix-Count
+# Logitech Displays
 
-This is meant to track the number of fixes that were made to a Logitech display in retail stores at a given period of time.
+Currently only tracking number of fixes that were made to a Logitech display in retail stores. Tracking number of compliant displays in stores will be created.
